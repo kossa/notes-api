@@ -1,5 +1,5 @@
 # Notes api using Laravel and TDD
-A simple CRUD api to manage Notes by logged users
+A simple CRUD api to manage Notes by logged users with fresh laravel installation(No extra packages)
 
 
 ### Postman documentation
@@ -14,7 +14,7 @@ Can be found: https://notes-api.bel4.com/api
 > Password: password
 
 
-### Want to test on local?
+### Installation on local?
 ```sh
 git clone https://github.com/kossa/notes-api.git
 
